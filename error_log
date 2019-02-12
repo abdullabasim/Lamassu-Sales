@@ -1,0 +1,1 @@
+[20-Dec-2017 12:21:01 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/lamassuiq/sales.lamassu-iq.com/index.php on line 58
